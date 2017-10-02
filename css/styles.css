@@ -112,7 +112,7 @@ blockquote p.name { font-style:normal; color:#555; letter-spacing:0; font-weight
 /* =4. Headings
 --------------------------------------------------------------------------------------------------------*/
 h1#logo { display:block; position:relative; margin:0; margin-top:20px; margin-bottom:50px; text-align:center; font-size:0; }
-h1#logo a { display:inline-block; background:url(../images/bg-logo2@2x.png) center no-repeat; background-size:394px 87px; width:394px; height:87px; text-indent:-9999px; }
+h1#logo a { display:inline-block; background:url(../images/logowilker.png) center no-repeat; background-size: 532px 264px;  width: 532px;  height: 209px; }
 .tagline { float:left; font-size:12px; font-weight:400; padding:0 0 0 16px; margin:0px auto; position:relative; display:table; height:72px; margin-top:-1px; font-style:italic }
 .tagline span { vertical-align:middle; display:table-cell }
 .year, h1, h2, h3, h4, h5, h6 { line-height:1.3; color:#2b2b2b; position:relative; font-family:"Oswald", Arial, Helvetica, sans-serif; text-transform:uppercase; }
